@@ -27,6 +27,7 @@ body{
 	height: 100%;
     overflow-y: scroll;
     bottom: 0;
+	padding-bottom: 15px;
 }
 #navbar ul{
 	list-style: none;
@@ -48,7 +49,7 @@ body{
 }
 
 main{
-	padding: 85px 50px;
+	padding: 30px 50px;
 	border-left: 8px solid var(--customGray);
 	box-sizing: border-box;
 	position: relative;
